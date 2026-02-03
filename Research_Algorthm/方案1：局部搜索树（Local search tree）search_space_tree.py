@@ -211,7 +211,7 @@ if __name__ == "__main__":
     plt.tight_layout()
     
     # 保存（可以改格式为svg/pdf/png）
-    plt.savefig('/workspace/algorithm_alchemist/Research_Algorthm/方案1：局部搜索树（Local search tree）.png', dpi=600, bbox_inches='tight', pad_inches=0.3)
+    plt.savefig('/workspaces/Algorithm_Alchemist/Research_Algorthm/方案1：局部搜索树（Local search tree）.png', dpi=600, bbox_inches='tight', pad_inches=0.3)
     print("图像已保存为 search_space_tree.png")
     
     plt.show()

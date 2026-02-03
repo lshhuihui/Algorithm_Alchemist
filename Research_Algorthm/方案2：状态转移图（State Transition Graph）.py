@@ -8,7 +8,7 @@ plt.rcParams['font.family'] = ['DejaVu Sans']
 plt.rcParams['axes.unicode_minus'] = False
 
 # 保存路径（可修改为你自己的路径）
-SAVE_DIR = "/workspace/algorithm_alchemist/Research_Algorthm/"
+SAVE_DIR = "/workspaces/Algorithm_Alchemist/Research_Algorthm"
 os.makedirs(SAVE_DIR, exist_ok=True)
 
 # ========== 辅助函数 ==========

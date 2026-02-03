@@ -131,7 +131,7 @@ def draw_matrix(ax, center_x, center_y, state, size=0.8, highlight=False,
 # ========== Main Program ==========
 if __name__ == "__main__":
     # Set save path
-    save_dir = "/workspace/algorithm_alchemist/Research_Algorthm/"
+    save_dir = "/workspaces/Algorithm_Alchemist/Research_Algorthm"
     os.makedirs(save_dir, exist_ok=True)
     
     # Start and goal states
